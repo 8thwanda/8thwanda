@@ -1,5 +1,5 @@
 - 👋 Hi, we are @8thwanda
-- 👀 We are interested in Html, bootstrap, javascript, python
+- 👀 We build Web App and Mobile Apps
 - 💞️ looking to collaborate with us...
 - 📫 How to reach us ...
 
